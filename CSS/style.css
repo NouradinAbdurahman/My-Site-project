@@ -143,9 +143,11 @@ nav ul li a {
 .middle-container .contact-me {
     padding-top: 20px;
 }
-.middle-container .contact-me h2, .middle-container .contact-me h3 {
+.middle-container .contact-me h2{
     text-transform: capitalize;
-
+    padding: 10px 0;
+}
+.middle-container .contact-me h3  {
     padding: 10px 0;
 }
 .skill-row {
